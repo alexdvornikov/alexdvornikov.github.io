@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/2018/07/30/about/</loc>
+<lastmod>2018-07-30T00:00:00-10:00</lastmod>
+</url>
+<url>
+<loc>/2018/07/29/teaching/</loc>
+<lastmod>2018-07-29T00:00:00-10:00</lastmod>
+</url>
+<url>
+<loc>/2018/07/28/photography/</loc>
+<lastmod>2018-07-28T00:00:00-10:00</lastmod>
+</url>
+<url>
+<loc>/category/about/</loc>
+</url>
+<url>
+<loc>/archive/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/category/photography/</loc>
+</url>
+<url>
+<loc>/category/teaching/</loc>
+</url>
+</urlset>

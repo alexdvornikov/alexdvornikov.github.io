@@ -1,0 +1,33 @@
+# Site settings
+email: olexiy@hawaii.edu
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics:
+
+# SEO settings
+title: Alex's Page
+description:
+url: ""
+twitter_username:
+default_img:
+
+# Profile settings
+name: Alex Dvornikov
+profile_img: /images/portrait_ucsd.JPG
+profile: Hey, there. I’m Alex. I’m a PhD student at the University of Hawaii. I earned my BS in Astrophysics at UCSD and my MS at SDSU. Why is there more matter than antimatter? What is dark matter? I'm trying to find out. I’m currently working on <a href="http://www.dunescience.org/">DUNE</a>. Check out my <a href ="/assets/CV.pdf">CV</a>. In short, I love physics &amp; teaching. Send me an <a href="mailto:olexiy@hawaii.edu?Subject=Hello,%20Alex!">email</a>. I’m also on <a href="https://500px.com/racoonciliation">500px</a>.
+social:
+  github: https://github.com/alexdvornikov/
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
