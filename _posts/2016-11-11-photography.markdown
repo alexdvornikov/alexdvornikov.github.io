@@ -9,7 +9,7 @@ image: /images/2018_Spring_Kaena_Point.JPG
 image-sm: /images/2018_Spring_Kaena_Point.JPG
 ---
 
-Check out more of my photos on <a href="https://500px.com/racoonciliation">500px</a>.
+Check out more of my photos on <a href="https://500px.com/racoonciliation" style="color: blue; text-decoration: none;">500px</a>.
 <hr/> ![Pic1](/images/blossom.JPG){:class="img-responsive"}
 <hr/> ![Pic2](/images/ocean_beach.JPG){:class="img-responsive"}
 <hr/> ![Pic3](/images/rain_flowers.JPG){:class="img-responsive"}
