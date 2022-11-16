@@ -5,8 +5,8 @@ date: 2022-11-13
 categories:
   - Photography
 description:
-image: /images/2018_Spring_Kaena_Point.JPG
-image-sm: /images/2018_Spring_Kaena_Point.JPG
+image: /images/2021_May_Kauai.JPG
+image-sm: /images/2021_May_Kauai.JPG
 ---
 
 Check out more of my photos on <a href="https://500px.com/racoonciliation" style="color: blue; text-decoration: none;">500px</a>.
