@@ -15,7 +15,7 @@ default_img:
 # Profile settings
 name: Alex Dvornikov
 profile_img: /images/portrait_ucsd.JPG
-profile: Hey, there. I’m Alex. I’m a PhD student at the University of Hawaii. I earned my BS in Astrophysics at UCSD and my MS at SDSU. Why is there more matter than antimatter? What is dark matter? I'm trying to find out. I’m currently working on <a href="http://www.dunescience.org/">DUNE</a>. Check out my <a href ="/assets/CV.pdf">CV</a>. In short, I love physics &amp; teaching. Send me an <a href="mailto:olexiy@hawaii.edu?Subject=Hello,%20Alex!">email</a>. I’m also on <a href="https://500px.com/racoonciliation">500px</a>.
+profile: Hey, there. I’m Alex. I’m a PhD candidate at the University of Hawai'i. Why is there more matter than antimatter? What is dark matter? How do stars evolve and die? I'm trying to find out. I’m currently working on <a href="http://www.dunescience.org/" style="color: blue; text-decoration: none;">DUNE</a>. Check out my <a href ="/assets/CV.pdf" style="color: blue; text-decoration: none;">CV</a>. In short, I love physics &amp; teaching. Send me an <a href="mailto:olexiy@hawaii.edu?Subject=Hello,%20Alex!">email</a>. I’m also on <a href="https://500px.com/racoonciliation" style="color: blue; text-decoration: none;">500px</a>.
 social:
   github: https://github.com/alexdvornikov/
 
