@@ -10,6 +10,13 @@ image-sm: /images/2015_Spring_3.JPG
 ---
 
 Faculty Evaluations
+<hr/> **ratemyprofessors.com** A great teacher who is excited to teach. However, be prepared as physics isn't the easiest subject.
+Most of the time you deal with conceptual things, but Alex does a good job at explaining things thoroughly.
+As someone who always sucked at physics, this class was a lifesaver. Would recommend.
+<hr/> **ratemyprofessors.com** Alex is very passionate about physics and he'ss always excited to talk about it.
+You'd be in a good shape if you read the textbook ahead because his lectures are fast. 
+I thought he's sarcastic at the beginning but he's actually very nice, understanding, and caring once you talk to him. 
+Make sure to attend lectures before exams.
 <hr/> Alex is definitely one of the best teachers I could've asked for. He offered his help so much and
 provided us with a lot of feedback and made us feel comfortable with not knowing and coming
 forward in asking questions. He'd try and explain in many different ways to
@@ -18,7 +25,7 @@ make sure we understood. One of the best teachers ever.
 patient and never gets tired of all my stupid questions. I love that!
 Alex was incredibly helpful and the labs weren't too difficult or confusing. It was a great
 course.
-<hr/> ![Pic6](/images/2015_Fall_2.JPG){:class="img-responsive"}
+<hr/> ![Pic8](/images/2017_Fall.JPG){:class="img-responsive"}
 <hr/> Alex is very helpful and very caring. My group was usually the last one to finish and passed the class time. He would wait for us to finish the lab and never complained about waiting.
 <hr/> He's understanding, helps us learn, makes sure we understand everything, and he's cute! I had no
 clue that was how he spelled his name (Olexiy). Great lab prof :)
@@ -28,7 +35,7 @@ clue that was how he spelled his name (Olexiy). Great lab prof :)
 the class and made abstract ideas as simple as possible. His passion for physics shows in his teaching.
 <hr/> Alex was very nice and approachable and answered our questions warmly. His grading was very fair.
 <hr/> Alex extensively helped in and out of class.
-<hr/> ![Pic1](/images/2015_Spring_2.JPG){:class="img-responsive"}
+<hr/> ![Pic11](/images/2018_Spring.JPG){:class="img-responsive"}
 <hr/> Amazing lab instructor. Really knowledgeable, kind, funny, and cares about his students.
 <hr/> Would definitely take a class with Alex again! He made class enjoyable.
 <hr/> Super nice, always grades fairly, tells us exactly what to do.
@@ -69,7 +76,7 @@ who had questions.
 <hr/> Great at simplifying and explaining the relevance of the lab performed. Patient, able to deal with all personalities.
 Useful office hours.
 <hr/> Alex was a great teacher and was very patient in explaining the complexities of physics. He's the best physics lab instructor ever. Helped so much and was always available. Really wanted students to succeed.
-<hr/> ![Pic8](/images/2017_Fall.JPG){:class="img-responsive"}
+<hr/> ![Pic6](/images/2015_Fall_2.JPG){:class="img-responsive"}
 <hr/> He's very helpful and clear when explaining the lab for the day!
 <hr/> I loved having Alex as a TA. Great teacher, very helpful.
 <hr/> I hope to work with him again sometime in the future.
@@ -87,7 +94,7 @@ Useful office hours.
 <hr/> He clearly knows his stuff. Alex is an amazing teacher and helped me work through any blocks. I really appreciated that he made physics not scary!
 <hr/> I liked Alex's vibe and dedication. He knew his material and helped us out whenever we got stuck.
 <hr/> He is a really nice guy. Give him a raise.
-<hr/> ![Pic11](/images/2018_Spring.JPG){:class="img-responsive"}
+<hr/> ![Pic1](/images/2015_Spring_2.JPG){:class="img-responsive"}
 <hr/> Alex is very knowledgeable, super helpful and patient. Quite an amicable person. Alex really understood the material. He was very helpful, always quick, and extremely efficient with time. He presented everything really clearly and thoroughly.
 <hr/> Alex gave new perspectives on problems so that they can be solved without constantly asking for help.
 <hr/> He engaged the class and was very attentive. He would go around and help, ask, answer questions, and share fun facts relevant to the material.
