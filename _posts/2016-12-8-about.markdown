@@ -18,7 +18,7 @@ I have no idea why we are here. But I want to merge my background in astrophysic
 | *ProtoDUNE-SP at CERN: A liquid argon time projection chamber (LArTPC) prototype for DUNE* |
 
 <br/>
-<span style="font-family:Papyrus; font-size:4em;">Neutrinos (and Dark Matter)</span>
+<span style="font-family:Papyrus; font-size:2em;">Neutrinos (and Dark Matter)</span>
 <br/>
 
 Neutrinos are one of the basic constituents, or Lego bricks, making up matter.
