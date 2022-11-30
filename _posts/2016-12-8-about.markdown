@@ -13,9 +13,11 @@ image-sm: /images/Portrait.jpg
 
 I have no idea why we are here. But I want to merge my background in astrophysics and particle physics to observe and model the universe. I am obsessed with physics and I want to inspire the next generation. Currently, I'm a PhD candidate at the University of Hawai'i and a collaborator on <a href="https://lbnf-dune.fnal.gov/how-it-works/introduction/" style="color: blue; text-decoration: none;">DUNE</a>. Check out my <a href ="/assets/CV.pdf" style="color: blue; text-decoration: none;">CV</a>
 
-<hr/> ![Pic1](/images/2018_June_ProtoDUNE.JPG){:class="img-responsive"}
+| ![Pic1](/images/2018_June_ProtoDUNE.JPG){:class="img-responsive"} | 
+|:--:| 
+| *ProtoDUNE-SP at CERN: A liquid argon time projection chamber (LArTPC) prototype for DUNE* |
 
-##### Neutrinos (and Dark Matter)
+## Neutrinos (and Dark Matter)
 
 Neutrinos are one of the basic constituents, or Lego bricks, making up matter.
 They are everywhere - trillions, departing from the Sun, go through us every second and hundreds per cubic centimeter are left over from the Big Bang. Neutrinos changes protons to neutrons, power nuclear fusion in stars, and create elements that make planets and living organisms. They are astronomical beacons, streaming from the guts of the stars and perhaps yet unknown astrophysical objects. Also, neutrinos could be the key to understanding the origin of mass and the predominance of matter over antimatter in our universe.
