@@ -35,7 +35,7 @@ Rather, only the aptly named weak force and gravity. In fact, neutrinos are the 
 
 | ![Pic1](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
 |:--:| 
-| *Simulated DUNE Event Display of a 236 MeV muon neutrino from kaon-decay-at-rest (KDAR) originating from dark matter annihilation in the Sun. In a LArTPC, a muon can eject a lepton (longer muon track) and a hadron (shorter proton track).* |
+| *Simulated DUNE Event Display of a hypothetical 236 MeV muon neutrino from kaon-decay-at-rest (KDAR) originating from dark matter annihilation in the Sun. In a LArTPC, a muon can eject a lepton (longer muon track) and a hadron (shorter proton track).* |
 
 If you thought that was weird, it gets weirder. 
 There are three, almost identical, stable flavors of neutrinos, and they change into one other. 
