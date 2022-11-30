@@ -18,7 +18,7 @@ I have no idea why we are here. But I want to merge my background in astrophysic
 | *ProtoDUNE-SP at CERN: A liquid argon time projection chamber (LArTPC) prototype for DUNE* |
 
 <br/>
-<span style="font-family:Papyrus; font-size:2em;">Neutrinos (and Dark Matter)</span>
+<span style="font-size:2em;">Neutrinos (and Dark Matter)</span>
 <br/>
 
 Neutrinos are one of the basic constituents, or Lego bricks, making up matter.
@@ -33,6 +33,10 @@ But, we do know why they are almost noninteracting.
 They do not participate in electromagnetic or strong interactions that bind atoms and nuclei. 
 Rather, only the aptly named weak force and gravity. In fact, neutrinos are the *only* part of dark matter that we understand. 
 
+| ![Pic1](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
+|:--:| 
+| *Simulated DUNE Event Display of a 236 MeV muon neutrino from kaon-decay-at-rest (KDAR) originating from dark matter annihilation in the Sun. In a LArTPC, a muon can eject a lepton (longer muon track) and a hadron (shorter proton track).* |
+
 If you thought that was weird, it gets weirder. 
 There are three, almost identical, stable flavors of neutrinos, and they change into one other. 
 This only happens if: neutrinos have mass, those masses are different for different types, and  neutrinos of definite flavors are quantum superpositions of neutrinos of definite mass (aka “neutrino mixing”). 
@@ -44,4 +48,12 @@ However, following the discovery of neutrino mixing, a quantum effect, on terres
 We will, undoubtedly, learn more about neutrinos over the next decade.  
 Current neutrino telescopes are already seeing extragalactic neutrinos and next-generation neutrino detectors currently under construction will extend multi-messenger astronomy and study the differences between neutrinos and anti-neutrinos in an attempt to understand the matter-antimatter asymmetry of the universe.
 
+| ![Pic1](/images/DeltaRayExample.png){:class="img-responsive"} | 
+|:--:| 
+| *ProtoDUNE-SP Event Display: Delta-rays, cirlced in red, share energies with elecrons ejected by neutrinos arriving from the sun or supernovae. They are a valuable calibration source for neutrino astronomy.* |
+
 I am interested in advancing our understanding of neutrinos and dark matter, and in searching for new physics beyond the Standard Model, which may be accessible through neutrino & DM experiments. DUNE is one of the detectors that can answer these questions. It is a liquid argon time projection chamber (LArTPC) - a marvel of cryogenic and electric engineering. LArTPCs take unprecedented resolution ‘pictures’ of particle interactions that allow for precision neutrino physics. Currently, my research focuses on calibrating LArTPCs and developing new algorithms for the reconstruction of particle interaction ‘images’.
+
+| ![Pic1](/images/Module1_Example.png){:class="img-responsive"} | 
+|:--:| 
+| *Module 1 (a surface DUNE Near Detector prototype) pierced by cosmic muons. Inhomogeneous electric fields warp the otherwise straight cosmic muons. Correcting for such warping is crucial for neutrino physics and it requires special hardware and software in underground detectors where cosmic muons are scarce.* |
