@@ -30,7 +30,7 @@ This is very different from all other fundamental particles.
 We still cannot figure out why $$\nu$$'s are almost, but not quite, massless. 
 Nor, do we know the values of their masses (aside from an upper limit set at a million times smaller than the mass of an electron). 
 But, we do know why they are almost noninteracting. 
-They do not participate in electromagnetic or strong interactions that bind atoms and nuclei. 
+They do not participate in strong or electromagnetic interactions that bind nuclei and atoms. 
 Rather, only the aptly named weak force and gravity. In fact, $$\nu$$'s are the *only* part of dark matter that we understand. 
 
 | ![Pic2](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
@@ -40,12 +40,11 @@ Rather, only the aptly named weak force and gravity. In fact, $$\nu$$'s are the 
 <br/>
 
 If you thought that was weird, it gets weirder. 
-There are three, almost identical, stable flavors of $$\nu$$'s, and they change into one other. 
+There are three stable flavors of $$\nu$$'s and they change into one other. 
 This only happens if: $$\nu$$'s have mass, those masses are different for different types, and  $$\nu$$'s of definite flavors are quantum superpositions of $$\nu$$'s of definite mass (aka $$\nu$$ mixing). 
 
 In the twentieth century, most scientists did not expect this. 
-Very few devoted their time to $$\nu$$'s - the almost imaginary particles. 
-However, following the discovery of $$\nu$$ mixing, a quantum effect, on terrestrial and astronomical distance scales, a flurry of $$\nu$$ research followed in the 21st century. 
+However, following the discovery of $$\nu$$ mixing, a quantum effect, on human and astronomical distance scales, a flurry of $$\nu$$ research followed in the 21st century. 
 
 We will, undoubtedly, learn more about $$\nu$$'s over the next decade.  
 Current $$\nu$$ telescopes are already seeing extragalactic $$\nu$$'s and next-generation $$\nu$$ detectors currently under construction will extend multi-messenger astronomy and study the differences between $$\nu$$'s and $$\bar \nu$$'s (anti-neutrinos) in an attempt to understand the matter-antimatter asymmetry of the universe.
