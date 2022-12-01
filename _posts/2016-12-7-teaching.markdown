@@ -10,10 +10,10 @@ image-sm: /images/2015_Spring_3.JPG
 ---
 
 Faculty Evaluations
-<hr/> **ratemyprofessors.com** A great teacher who is excited to teach. However, be prepared as physics isn't the easiest subject.
+<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> A great teacher who is excited to teach. However, be prepared as physics isn't the easiest subject.
 Most of the time you deal with conceptual things, but Alex does a good job at explaining thoroughly.
 As someone who always sucked at physics, this class was a lifesaver. Would recommend.
-<hr/> **ratemyprofessors.com** Alex is very passionate about physics and he's always excited to talk about it.
+<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> Alex is very passionate about physics and he's always excited to talk about it.
 You'd be in a good shape if you read the textbook ahead because his lectures are fast. 
 I thought he's sarcastic at the beginning but he's actually very nice, understanding, and caring once you talk to him. 
 Make sure to attend lectures before exams.
