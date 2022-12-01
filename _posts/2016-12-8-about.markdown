@@ -33,9 +33,10 @@ But, we do know why they are almost noninteracting.
 They do not participate in electromagnetic or strong interactions that bind atoms and nuclei. 
 Rather, only the aptly named weak force and gravity. In fact, $\nu$'s are the *only* part of dark matter that we understand. 
 
-| ![Pic1](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
+| ![Pic2](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
 |:--:| 
 | *Simulated DUNE Event Display of a hypothetical 236 MeV muon neutrino from kaon-decay-at-rest (KDAR) originating from dark matter annihilation in the Sun. In a LArTPC, it can eject a lepton (longer muon track) and a hadron (shorter proton track).* |
+
 <br/>
 <br/>
 
@@ -50,9 +51,10 @@ However, following the discovery of $\nu$ mixing, a quantum effect, on terrestri
 We will, undoubtedly, learn more about $\nu$'s over the next decade.  
 Current $\nu$ telescopes are already seeing extragalactic $\nu$'s and next-generation $\nu$ detectors currently under construction will extend multi-messenger astronomy and study the differences between $\nu$'s and $\bar \nu$'s (anti-neutrinos) in an attempt to understand the matter-antimatter asymmetry of the universe.
 
-| ![Pic1](/images/DeltaRayExample.png){:class="img-responsive"} | 
+| ![Pic3](/images/DeltaRayExample.png){:class="img-responsive"} | 
 |:--:| 
 | *ProtoDUNE-SP Event Display: Delta-rays, cirlced in red, share energies with elecrons ejected by neutrinos arriving from the sun or supernovae. They are a valuable calibration source for neutrino astronomy.* |
+
 <br/>
 <br/>
 
@@ -61,4 +63,5 @@ I am interested in advancing our understanding of $\nu$'s and dark matter, and i
 | <img src="/images/Module1_Example.png" alt="drawing" width="400"/> | 
 |:--:| 
 | *Module 1 (a surface DUNE Near Detector prototype) pierced by cosmic muons. Inhomogeneous electric fields warp the otherwise straight cosmic muons. Correcting for such warping is crucial for neutrino physics and it requires special hardware and software in underground detectors where cosmic muons are scarce.* |
+
 <br/>
