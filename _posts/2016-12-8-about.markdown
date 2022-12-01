@@ -58,7 +58,7 @@ Current $\nu$ telescopes are already seeing extragalactic $\nu$'s and next-gener
 
 I am interested in advancing our understanding of $\nu$'s and dark matter, and in searching for new physics beyond the Standard Model, which may be accessible through $\nu$ & DM experiments. DUNE is one of the detectors that can answer these questions. It is a liquid argon time projection chamber (LArTPC) - a marvel of cryogenic and electric engineering. LArTPCs take unprecedented resolution ‘pictures’ of particle interactions that allow for precision $\nu$ physics. Currently, my research focuses on calibrating LArTPCs and developing new algorithms for the reconstruction of particle interaction ‘images’.
 
-| <img src="/images/Module1_Example.png" alt="drawing" width="400"/> | 
+| <img src="/images/Module1_Example.png" alt="drawing" height="400"/> | 
 |:--:| 
 | *Module 1 (a surface DUNE Near Detector prototype) pierced by cosmic muons. Inhomogeneous electric fields warp the otherwise straight cosmic muons. Correcting for such warping is crucial for neutrino physics and it requires special hardware and software in underground detectors where cosmic muons are scarce.* |
 
