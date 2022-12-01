@@ -21,17 +21,17 @@ I have no idea why we are here. But I want to merge my background in astrophysic
 <span style="font-size:2em;">Neutrinos (and Dark Matter)</span>
 <br/>
 
-Neutrinos $$\nu$$'s are one of the basic constituents, or Lego bricks, making up matter.
-They are everywhere - trillions, departing from the Sun, go through us every second and hundreds per cubic centimeter are left over from the Big Bang. \\(\nu\\)'s changes protons to neutrons, power nuclear fusion in stars, and create elements that make planets and living organisms. They are astronomical beacons, streaming from the guts of the stars and perhaps yet unknown astrophysical objects. Also, $\nu$'s could be the key to understanding the origin of mass and the predominance of matter over antimatter in our universe.
-In short, $\nu$'s are profoundly important, but don’t take it form me - look at the Nobel Prizes in 1988, 1995, 2002, and 2015. $\nu$'s can show things that cannot be seen in any other way. And yet, Nature tantalizes us, since $\nu$'s are nearly undetectable.
+Neutrinos ( $$\nu$$'s ) are one of the basic constituents, or Lego bricks, making up matter.
+They are everywhere - trillions, departing from the Sun, go through us every second and hundreds per cubic centimeter are left over from the Big Bang. $$\nu$$'s changes protons to neutrons, power nuclear fusion in stars, and create elements that make planets and living organisms. They are astronomical beacons, streaming from the guts of the stars and perhaps yet unknown astrophysical objects. Also, $$\nu$$'s could be the key to understanding the origin of mass and the predominance of matter over antimatter in our universe.
+In short, $$\nu$$'s are profoundly important, but don’t take it form me - look at the Nobel Prizes in 1988, 1995, 2002, and 2015. $$\nu$$'s can show things that cannot be seen in any other way. And yet, Nature tantalizes us, since $$\nu$$'s are nearly undetectable.
 
 They are *almost* noninteracting and *almost* massless.
 This is very different from all other fundamental particles. 
-We still cannot figure out why $\nu$'s are almost, but not quite, massless. 
+We still cannot figure out why $$\nu$$'s are almost, but not quite, massless. 
 Nor, do we know the values of their masses (aside from an upper limit set at a million times smaller than the mass of an electron). 
 But, we do know why they are almost noninteracting. 
 They do not participate in electromagnetic or strong interactions that bind atoms and nuclei. 
-Rather, only the aptly named weak force and gravity. In fact, $\nu$'s are the *only* part of dark matter that we understand. 
+Rather, only the aptly named weak force and gravity. In fact, $$\nu$$'s are the *only* part of dark matter that we understand. 
 
 | ![Pic2](/images/KDAR_Neutrino.png){:class="img-responsive"} | 
 |:--:| 
@@ -40,15 +40,15 @@ Rather, only the aptly named weak force and gravity. In fact, $\nu$'s are the *o
 <br/>
 
 If you thought that was weird, it gets weirder. 
-There are three, almost identical, stable flavors of $\nu$'s, and they change into one other. 
-This only happens if: $\nu$'s have mass, those masses are different for different types, and  $\nu$'s of definite flavors are quantum superpositions of $\nu$'s of definite mass (aka $\nu$ mixing). 
+There are three, almost identical, stable flavors of $$\nu$$'s, and they change into one other. 
+This only happens if: $$\nu$$'s have mass, those masses are different for different types, and  $$\nu$$'s of definite flavors are quantum superpositions of $$\nu$$'s of definite mass (aka $$\nu$$ mixing). 
 
 In the twentieth century, most scientists did not expect this. 
-Very few devoted their time to $\nu$'s - the almost imaginary particles. 
-However, following the discovery of $\nu$ mixing, a quantum effect, on terrestrial and astronomical distance scales, a flurry of $\nu$ research followed in the 21st century. 
+Very few devoted their time to $$\nu$$'s - the almost imaginary particles. 
+However, following the discovery of $$\nu$$ mixing, a quantum effect, on terrestrial and astronomical distance scales, a flurry of $$\nu$$ research followed in the 21st century. 
 
-We will, undoubtedly, learn more about $\nu$'s over the next decade.  
-Current $\nu$ telescopes are already seeing extragalactic $\nu$'s and next-generation $\nu$ detectors currently under construction will extend multi-messenger astronomy and study the differences between $\nu$'s and $\bar \nu$'s (anti-neutrinos) in an attempt to understand the matter-antimatter asymmetry of the universe.
+We will, undoubtedly, learn more about $$\nu$$'s over the next decade.  
+Current $$\nu$$ telescopes are already seeing extragalactic $$\nu$$'s and next-generation $$\nu$$ detectors currently under construction will extend multi-messenger astronomy and study the differences between $$\nu$$'s and $$\bar \nu$$'s (anti-neutrinos) in an attempt to understand the matter-antimatter asymmetry of the universe.
 
 | ![Pic3](/images/DeltaRayExample.png){:class="img-responsive"} | 
 |:--:| 
@@ -56,7 +56,7 @@ Current $\nu$ telescopes are already seeing extragalactic $\nu$'s and next-gener
 
 <br/>
 
-I am interested in advancing our understanding of $\nu$'s and dark matter, and in searching for new physics beyond the Standard Model, which may be accessible through $\nu$ & DM experiments. DUNE is one of the detectors that can answer these questions. It is a liquid argon time projection chamber (LArTPC) - a marvel of cryogenic and electric engineering. LArTPCs take unprecedented resolution ‘pictures’ of particle interactions that allow for precision $\nu$ physics. Currently, my research focuses on calibrating LArTPCs and developing new algorithms for the reconstruction of particle interaction ‘images’.
+I am interested in advancing our understanding of $$\nu$$'s and dark matter, and in searching for new physics beyond the Standard Model, which may be accessible through $$\nu$$ & DM experiments. DUNE is one of the detectors that can answer these questions. It is a liquid argon time projection chamber (LArTPC) - a marvel of cryogenic and electric engineering. LArTPCs take unprecedented resolution ‘pictures’ of particle interactions that allow for precision $$\nu$$ physics. Currently, my research focuses on calibrating LArTPCs and developing new algorithms for the reconstruction of particle interaction ‘images’.
 
 | <img src="/images/Module1_Example.png" alt="drawing" height="400"/> | 
 |:--:| 
