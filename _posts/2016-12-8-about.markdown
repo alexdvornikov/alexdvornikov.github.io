@@ -18,6 +18,12 @@ I have no idea why we are here. But I want to merge my background in astrophysic
 | *<a href="https://www.symmetrymagazine.org/article/protodune-in-pictures" style="color: blue; text-decoration: none;">ProtoDUNE-SP</a> at CERN: A liquid argon time projection chamber (<a href="https://en.wikipedia.org/wiki/Time_projection_chamber#The_Liquid_Argon_Time_Projection_Chamber_(LArTPC)" style="color: blue; text-decoration: none;">LArTPC</a>) prototype for DUNE* |
 
 <br/>
+
+| ![Pic1](/images/ProtoDUNE_Thermometer.jpeg){:class="img-responsive"} | 
+|:--:| 
+| *<a href="https://news.fnal.gov/2018/11/how-to-build-a-towering-millikelvin-thermometer" style="color: blue; text-decoration: none;">ProtoDUNE-SP Dynamic Temperature Profiler</a>. A joint effort of the University of Hawai'i, Fermilab, and CERN.* |
+
+<br/>
 <span style="font-size:2em;">Neutrinos (and Dark Matter)</span>
 <br/>
 
