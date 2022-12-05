@@ -5,8 +5,8 @@ date: 2022-11-15
 categories:
   - About
 description:
-image: /images/Portrait.jpg
-image-sm: /images/Portrait.jpg
+image: /images/ProtoDUNE_Shifts.JPG
+image-sm: /images/ProtoDUNE_Shifts.JPG
 ---
 
 "There are only two questions really worth asking. Why are we here? And what should we do about it while we are?" <a href="https://www.ted.com/talks/john_lloyd_inventories_the_invisible" style="color: blue; text-decoration: none;">John Lloyd</a>.
