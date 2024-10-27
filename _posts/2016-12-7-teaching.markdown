@@ -12,7 +12,7 @@ image-sm: /images/2015_Spring_3.JPG
 ---
 
 Faculty Evaluations
-Click here for <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> reviews.
+<hr/> Click here for <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> reviews.
 <hr/> Professor Dvornikov was such a kind-hearted professor that truly cared for each of his students! I attended his six-week course for Physics 272, which in itself, is quite a difficult course. He had everything planned out on his syllabus and was very organized with the class. He offers extra credit and a curve. Tests were just like reviews!
 <hr/> PHYS272 is a really tough class, but Alex does his best to make sure all his students understand the material. Holds weekly help sessions, which I would highly recommend. Most of the lectures consisted of deriving equations rather than going over examples. Definitely need a bit of knowledge on calculus and differential equations before this class.
 <hr/> Alex is very available for students and his lectures are interesting. He relates the material to real-world scenarios which makes it easier to learn and apply the concepts. He also pauses during lectures to gauge if we are following along or have any questions. I really enjoyed his class.
