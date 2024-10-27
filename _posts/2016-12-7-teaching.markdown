@@ -1,27 +1,36 @@
 ---
 layout: post
 title: "Teaching"
-date: 2022-11-14
+date: 2024-10-26
 categories:
   - Teaching
 description:
 image: /images/2015_Spring_3.JPG
 image-sm: /images/2015_Spring_3.JPG
+
+
 ---
 
 Faculty Evaluations
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> Quite a good lecturer. Appreciates feedback on his teaching as well as the course in general. Grading was based primarily on exams which were very generous, and he gave ample extra credit opportunities. Very easy professor who prioritized developing a deeper understanding and love of physics.
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> Very good professor. Physics is a hard subject and Alex understands that. He tries his best to keep everybody on the same page. Lots of calculus and derivations of equations during lectures. Try your best to understand the equations/concepts and Alex will try his best to push you to the finish line. Offers a lot of extra credit. Quiz every week.
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> An incredible professor. His lectures were a bit confusing to me since I'm not the most organized but they do help. He does LOTS of derivations of key equations, lets you know to keep the most important things too. Lots of EC opp's and SUPER available for office hours, if you ask he'll give as much help as possible especially for upcoming exams.
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> Very passionate about the subject and clearly enjoys teaching the material! Recommend to read thru the textbook before lectures as sometimes he'll go a bit in depth, deriving a lot of equations mathematically. Class was confusing and difficult at times but looking back on it, made me appreciate E&M more. Also gives a ton of EC opportunities!
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> By far my favorite professor I've had at UHM so far. The material in this class is hard to grasp, and he recognizes that by taking time to answer all questions thoroughly, he gives lots of extra credit, is always available with his OH's, and his exams are just like his reviews. If you have the chance to take physics with him, do it !!
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> A great teacher who is excited to teach. However, be prepared as physics isn't the easiest subject.
+Click here for <hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> reviews.
+<hr/> Professor Dvornikov was such a kind-hearted professor that truly cared for each of his students! I attended his six-week course for Physics 272, which in itself, is quite a difficult course. He had everything planned out on his syllabus and was very organized with the class. He offers extra credit and a curve. Tests were just like reviews!
+<hr/> PHYS272 is a really tough class, but Alex does his best to make sure all his students understand the material. Holds weekly help sessions, which I would highly recommend. Most of the lectures consisted of deriving equations rather than going over examples. Definitely need a bit of knowledge on calculus and differential equations before this class.
+<hr/> Alex is very available for students and his lectures are interesting. He relates the material to real-world scenarios which makes it easier to learn and apply the concepts. He also pauses during lectures to gauge if we are following along or have any questions. I really enjoyed his class.
+<hr/> Quite a good lecturer. Appreciates feedback on his teaching as well as the course in general. Grading was based primarily on exams which were very generous, and he gave ample extra credit opportunities. Very easy professor who prioritized developing a deeper understanding and love of physics.
+<hr/> ![](/images/P152_S1_Serious.JPG){:class="img-responsive"}
+<hr/> Very good professor. Physics is a hard subject and Alex understands that. He tries his best to keep everybody on the same page. Lots of calculus and derivations of equations during lectures. Try your best to understand the equations/concepts and Alex will try his best to push you to the finish line. Offers a lot of extra credit. Quiz every week.
+<hr/> An incredible professor. His lectures were a bit confusing to me since I'm not the most organized but they do help. He does LOTS of derivations of key equations, lets you know to keep the most important things too. Lots of EC opp's and SUPER available for office hours, if you ask he'll give as much help as possible especially for upcoming exams.
+<hr/> Very passionate about the subject and clearly enjoys teaching the material! Recommend to read thru the textbook before lectures as sometimes he'll go a bit in depth, deriving a lot of equations mathematically. Class was confusing and difficult at times but looking back on it, made me appreciate E&M more. Also gives a ton of EC opportunities!
+<hr/> By far my favorite professor I've had at UHM so far. The material in this class is hard to grasp, and he recognizes that by taking time to answer all questions thoroughly, he gives lots of extra credit, is always available with his OH's, and his exams are just like his reviews. If you have the chance to take physics with him, do it !!
+<hr/> ![](/images/P152_S2.JPG){:class="img-responsive"}
+<hr/> A great teacher who is excited to teach. However, be prepared as physics isn't the easiest subject.
 Most of the time you deal with conceptual things, but Alex does a good job at explaining thoroughly.
 As someone who always sucked at physics, this class was a lifesaver. Would recommend.
-<hr/> <a href="https://www.ratemyprofessors.com/professor?tid=2723654" style="color: blue; text-decoration: none;">ratemyprofessors.com</a> Alex is very passionate about physics and he's always excited to talk about it.
+<hr/> Alex is very passionate about physics and he's always excited to talk about it.
 You'd be in a good shape if you read the textbook ahead because his lectures are fast. 
 I thought he's sarcastic at the beginning but he's actually very nice, understanding, and caring once you talk to him. 
 Make sure to attend lectures before exams.
+<hr/> ![](/images/P272_S4_6.JPG ){:class="img-responsive"}
 <hr/> Alex is definitely one of the best teachers I could've asked for. He offered his help so much and
 provided us with a lot of feedback and made us feel comfortable with not knowing and coming
 forward in asking questions. He'd try and explain in many different ways to
